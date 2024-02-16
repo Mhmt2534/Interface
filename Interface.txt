@@ -1,0 +1,1 @@
+Kalıtım gibi ama metod alıyor gibi düşün. ve metodlar interfacede içi yok void Add(); gibi. Diğer yerlerde içini doldurup kendine göre kullanırız.

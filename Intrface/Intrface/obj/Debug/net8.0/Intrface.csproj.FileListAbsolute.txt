@@ -1,0 +1,14 @@
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\bin\Debug\net8.0\Intrface.exe
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\bin\Debug\net8.0\Intrface.deps.json
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\bin\Debug\net8.0\Intrface.runtimeconfig.json
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\bin\Debug\net8.0\Intrface.dll
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\bin\Debug\net8.0\Intrface.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\obj\Debug\net8.0\Intrface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\obj\Debug\net8.0\Intrface.AssemblyInfoInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\obj\Debug\net8.0\Intrface.AssemblyInfo.cs
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\obj\Debug\net8.0\Intrface.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\obj\Debug\net8.0\Intrface.dll
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\obj\Debug\net8.0\refint\Intrface.dll
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\obj\Debug\net8.0\Intrface.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\obj\Debug\net8.0\Intrface.genruntimeconfig.cache
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Interface\Intrface\Intrface\obj\Debug\net8.0\ref\Intrface.dll
